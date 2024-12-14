@@ -1,0 +1,5 @@
+Para lanzar la aplicación:
+Crear una carpeta "hola_mundo_streamlit" y copiar dentro los ficheros app.py, docker-compose.yml y Dockerfile
+docker compose build
+docker compose up
+Dependiendo del SO, puede que sea necesario usar  "docker-compose" (con guión) en lugar de "docker compose".
